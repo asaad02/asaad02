@@ -9,6 +9,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FAD000&width=800&lines=MSc+Candidate+%40+McGill+University.;Software+Engineer+%7C+Toolsmith.;Erasmus+Scholar+%40+University+of+Bremen.;BSc+%40+University+of+Guelph+%7C+SE+%2B+Econ.;Researching%3A+Compilers%2C+LLMs%2C+APIs%2C+Docs%2C+Traceability." />
+</p>
+
+<p align="center">
   <a href="https://github.com/asaad02"><img src="https://img.shields.io/badge/GitHub-asaad02-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/abdullah94-saad/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah_Saad-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://cs.mcgill.ca/~asaad14/"><img src="https://img.shields.io/badge/Website-csmcgill.ca%2F~asaad14-0d1117?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -33,7 +37,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 - Automation for Documentation & Traceability
 
 **🔬 Focus Areas**  
-> Compiler Tooling • API Usability • Documentation Automation • NLP for SE • Traceability Links 
+> • Documentation Automation  •Compiler Tooling • API Usability • NLP for SE • Traceability Links 
 
 ---
 
