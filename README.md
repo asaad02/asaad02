@@ -39,7 +39,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/McGill_University_Coat_of_Arms.svg/1200px-McGill_University_Coat_of_Arms.svg.png" width="80" alt="McGill University logo"/><br>
+      <img src="mcgill.gif" alt="University Logo"><br>
       <b>McGill University</b><br>
       MSc (Thesis), Computer Science
     </td>
