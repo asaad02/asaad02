@@ -83,28 +83,28 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 
   <!-- 🧑 Programming Languages -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFD1&center=true&width=600&lines=🧑‍💻+Programming+Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFD1&center=true&width=600&lines=🧑‍💻+Programming+Languages" />
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,bash&theme=light&perline=8" /><br><br>
 
   <!-- Frontend Development -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&width=600&lines=🌐+Frontend+%7C+UI+%7C+Web+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&center=true&width=600&lines=🌐+Frontend+%7C+UI+%7C+Web+Tech" />
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=light&perline=8" /><br><br>
 
   <!-- Backend & Frameworks -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7B801&center=true&width=600&lines=🔧+Backend+%26+Frameworks" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F7B801&center=true&width=600&lines=🔧+Backend+%26+Frameworks" />
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=light&perline=8" /><br><br>
 
 
   <!-- DevOps & Cloud -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=40F99B&center=true&width=600&lines=☁️+DevOps+%26+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=40F99B&center=true&width=600&lines=☁️+DevOps+%26+Cloud+Infrastructure" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gitlab&theme=light&perline=8" /><br><br>
 
   <!--  Databases -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&width=600&lines=🗄️+Databases+%28SQL+%2F+NoSQL%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=F72585&center=true&width=600&lines=🗄️+Databases+%28SQL+%2F+NoSQL%29" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light&perline=8" /><br><br>
 
   <!-- Tools & Platforms -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFA72&center=true&width=600&lines=⚙️+Tools+%26+Environments" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=FFFA72&center=true&width=600&lines=⚙️+Tools+%26+Environments" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=light&perline=8" /><br>
 
 </p>
