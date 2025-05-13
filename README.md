@@ -1,7 +1,7 @@
 <!-- ✨ Abdullah Saad | GitHub Profile README ✨ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abdullah%20Saad&fontAlign=50&fontAlignY=40&color=gradient&desc=Software%20Engineer%20%7C%20Compiler%20Tooling%20%7C%20MSc%20Researcher&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Abdullah%20Saad%20(Issa)&fontAlign=50&fontAlignY=40&color=gradient&desc=Software%20Engineer%20%7C%20Compiler%20Tooling%20%7C%20MSc%20Researcher&descSize=20" />
 </p>
 
 <h1 align="center">
