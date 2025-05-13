@@ -128,11 +128,6 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 ---
 
 
-<!-- Looping header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=700&lines=📈+Real-time+Insights+Into+My+GitHub+Activity" />
-</p>
-
 <!--  Streak Chart -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaad02&theme=tokyonight&hide_border=true&fire=FF6D00&currStreakLabel=FFA500&sideLabels=FFFFFF&dates=AAAAAA" alt="🔥 Streaks: Current and Longest Contribution Runs" />
@@ -162,11 +157,11 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 <!--  Stylish Call-To-Actions -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/asaad02" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://paypal.me/asaad02?country.x=CA&locale.x=en_US" target="_blank">
-    <img src="https://img.shields.io/badge/💰%20Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
