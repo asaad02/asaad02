@@ -38,18 +38,18 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/McGill_University_CoA.svg/200px-McGill_University_CoA.svg.png" width="80" alt="McGill University logo"/><br>
+    <td align="center" width="260">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/McGill_University_CoA.svg/120px-McGill_University_CoA.svg.png" width="60" alt="McGill University logo"/><br>
       <b>McGill University</b><br>
       MSc (Thesis), Computer Science
     </td>
-    <td align="center" width="250">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/U_of_Guelph_CoA.svg/1920px-U_of_Guelph_CoA.svg.png" width="80" alt="University of Guelph logo"/><br>
+    <td align="center" width="260">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/U_of_Guelph_CoA.svg/120px-U_of_Guelph_CoA.svg.png" width="60" alt="University of Guelph logo"/><br>
       <b>University of Guelph</b><br>
       BSc, Software Engineering + Economics
     </td>
-    <td align="center" width="250">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo-Universit%C3%A4t-Bremen.svg/512px-Logo-Universit%C3%A4t-Bremen.svg.png" width="80" alt="University of Bremen logo"/><br>
+    <td align="center" width="260">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo-Universit%C3%A4t-Bremen.svg/320px-Logo-Universit%C3%A4t-Bremen.svg.png" width="100" alt="University of Bremen logo"/><br>
       <b>University of Bremen</b><br>
       Erasmus+ Scholar (Germany)
     </td>
