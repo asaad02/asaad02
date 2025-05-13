@@ -87,7 +87,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61A6&width=900&lines=Thanks+for+visiting!+Happy+coding+%F0%9F%92%BB+%7C+Stay+curious+%F0%9F%94%8D+%7C+Keep+building!+%F0%9F%9B%A0%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61A6&width=900&lines=Thanks+for+visiting!+Happy+coding+%F0%9F%92%BB+%7C+Stay+curious!+%F0%9F%9B%A0%EF%B8%8F" />
 </p>
 
 <!-- README crafted with excellence by Abdullah Saad -->
