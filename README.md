@@ -60,13 +60,13 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 
 
-🔬 **Research Interests:**
+ **Research Interests:**
 - Developer-Centered Compiler Infrastructure  
 - API Usability & Program Comprehension  
 - NLP for Software Engineering  
 - Automation for Documentation & Traceability
 
-**🔬 Focus Areas**  
+**Focus Areas**  
 > • Documentation Automation  •Compiler Tooling • API Usability • NLP for SE • Traceability Links 
 
 ---
@@ -79,7 +79,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 - Enhancing traceability using LLMs & NLP  
 - Creating internal tools for large-scale software systems  
 
-
+---
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
