@@ -44,12 +44,12 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
       MSc (Thesis), Computer Science
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/UofGuelph_Logo.svg/2560px-UofGuelph_Logo.svg.png" width="80" alt="University of Guelph logo"/><br>
+      <img src="guelph.png" alt="University Logo"><br>
       <b>University of Guelph</b><br>
       BSc, Software Engineering + Economics
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/University_of_Bremen_logo.svg/2560px-University_of_Bremen_logo.svg.png" width="80" alt="University of Bremen logo"/><br>
+      <img src="bremen.png" alt="University Logo"><br>
       <b>University of Bremen</b><br>
       Erasmus+ Scholar (Germany)
     </td>
