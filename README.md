@@ -38,23 +38,24 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 <table align="center">
   <tr>
-    <td align="center" width="260">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/McGill_University_CoA.svg/120px-McGill_University_CoA.svg.png" width="60" alt="McGill University logo"/><br>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/79/McGill_University_Coat_of_Arms.svg/1200px-McGill_University_Coat_of_Arms.svg.png" width="80" alt="McGill University logo"/><br>
       <b>McGill University</b><br>
       MSc (Thesis), Computer Science
     </td>
-    <td align="center" width="260">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/U_of_Guelph_CoA.svg/120px-U_of_Guelph_CoA.svg.png" width="60" alt="University of Guelph logo"/><br>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/UofGuelph_Logo.svg/2560px-UofGuelph_Logo.svg.png" width="80" alt="University of Guelph logo"/><br>
       <b>University of Guelph</b><br>
       BSc, Software Engineering + Economics
     </td>
-    <td align="center" width="260">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo-Universit%C3%A4t-Bremen.svg/320px-Logo-Universit%C3%A4t-Bremen.svg.png" width="100" alt="University of Bremen logo"/><br>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/University_of_Bremen_logo.svg/2560px-University_of_Bremen_logo.svg.png" width="80" alt="University of Bremen logo"/><br>
       <b>University of Bremen</b><br>
       Erasmus+ Scholar (Germany)
     </td>
   </tr>
 </table>
+
 
 
 🔬 **Research Interests:**
@@ -169,7 +170,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 <!--  Thank You Typing Loop -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=800&lines=Every+coffee+keeps+the+ideas+brewing+☕;Much+love+from+the+terminal+side+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&width=800&lines=Every+coffee+keeps+the+ideas+brewing+☕;Much+love+from+the+terminal+side+💻" />
 </p>
 
 ---
