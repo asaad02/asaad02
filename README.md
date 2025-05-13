@@ -1,79 +1,83 @@
-<!-- Title -->
-## Hi, I’m Abdullah Saad — a Software Engineer and MSc Researcher at McGill University 🇨🇦
+<!-- Animated Typing Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=800&lines=Hi%2C+I'm+Abdullah+Saad+%F0%9F%91%8B;MSc+Researcher+%7C+Software+Engineer;McGill+University+%7C+Open+Source+Enthusiast;Building+Compiler+Tools+and+Docs+Automation" alt="Typing Intro" />
+</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-asaad02-000?style=flat&logo=github)](https://github.com/asaad02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Saad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah94-saad/)
-[![Website](https://img.shields.io/badge/Website-csmcgill.ca%2F~asaad14-0a192f?style=flat&logo=About.me&logoColor=white)](https://cs.mcgill.ca/~asaad14/)
-[![Email](https://img.shields.io/badge/Email-abdullah.saad%40mail.mcgill.ca-c14438?style=flat&logo=gmail&logoColor=white)](mailto:abdullah.saad@mail.mcgill.ca)
-
----
-
-### 👋 About Me
-
-Hi, I’m Abdullah Saad – a graduate researcher in Computer Science at McGill University with a passion for building tools that empower developers, automate workflows, and bridge the gap between research and real-world software systems.
-
-- 🎓 MSc (Thesis) in Computer Science @ **McGill University**
-- 🧠 B.Sc. Honours in Software Engineering + Minor in Economics @ **University of Guelph**
-- 🌍 Erasmus+ Scholar @ **University of Bremen, Germany**
-- ⚖️ Early Law Studies @ **Damascus University**
-
-My research focuses on **documentation automation**, **developer toolkits**, and **compiler infrastructure** especially improving **traceability** and **API usability** for better software maintenance and comprehension.
-
----
-
-### 🔭 What I’m Working On
-<img width="45%" align="right" alt="Coding" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🧪 Building compilers and automated documentation generators
-- 📚 Research in NLP, traceability links, and software comprehension
-- 🛠 Developing internal tooling to support large-scale software systems
-
-
----
-
-### 💬 Let’s Connect
-
-I love talking about software architecture, research, and automation in development processes.  
-Reach out for research collaborations, academic opportunities, or to chat about cool ideas!
-
-📧 **abdullah.saad@mail.mcgill.ca**  
-🌐 **[https://cs.mcgill.ca/~asaad14/](https://cs.mcgill.ca/~asaad14/)**  
-☕ **[Buy Me a Coffee](https://www.buymeacoffee.com/asaad02)** | **[PayPal](https://paypal.me/asaad02?country.x=CA&locale.x=en_US)**
-
----
-
-### 🛠 Languages & Tools
-
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br/>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/matlab/matlab-ar21.svg"></code>
+<!-- Social Buttons -->
+<p align="center">
+  <a href="https://github.com/asaad02"><img src="https://img.shields.io/badge/GitHub-asaad02-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/abdullah94-saad/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Saad-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://cs.mcgill.ca/~asaad14/"><img src="https://img.shields.io/badge/Website-Portfolio-0a192f?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="mailto:abdullah.saad@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 👨‍💻 About Me
 
-<p>
-  <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=asaad02&show_icons=true&theme=radical" />
-  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad02&layout=compact&theme=radical" />
+Hi, I’m **Abdullah Saad** — a passionate researcher and developer working at the intersection of software engineering, NLP, and automation at **McGill University 🇨🇦**.
+
+- 🎓 **MSc (Thesis)** — Computer Science @ McGill University
+- 🧠 **BSc. Honours** — Software Engineering + Economics @ University of Guelph
+- 🌍 **Erasmus+ Scholar** — University of Bremen, Germany
+- ⚖️ Early Law Studies — Damascus University
+
+🧭 My research focuses on:
+- **Documentation Automation**
+- **Compiler Infrastructure**
+- **Traceability & Program Comprehension**
+- **API Usability + NLP for SE**
+
+---
+
+## 🚀 Current Projects
+
+<img width="45%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🧪 Automating documentation using compilers
+- 🧠 Enhancing traceability links with NLP and LLMs
+- 🛠️ Developer tools that bridge code, docs, and user intent
+
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,docker,kubernetes,git,aws,gitlab,bash,linux,react,spring,mysql,postgres,tensorflow,pytorch,airflow,matlab&perline=9" />
 </p>
 
-<br clear="both" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaad02&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asaad02&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaad02&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaad02&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
 
+## ☕ Support My Work
 
-<!-- Made by Abdullah Saad -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/asaad02"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://paypal.me/asaad02?country.x=CA&locale.x=en_US"><img src="https://img.shields.io/badge/Donate-PayPal-0A66C2?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61A6&width=900&lines=Thanks+for+visiting!+Happy+coding+%F0%9F%92%BB+%7C+Stay+curious+%F0%9F%94%8D+%7C+Keep+building!+%F0%9F%9B%A0%EF%B8%8F" />
+</p>
+
+<!-- README crafted by Abdullah Saad -->
