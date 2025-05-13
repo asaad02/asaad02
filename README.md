@@ -39,22 +39,23 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 <table align="center">
   <tr>
     <td align="center">
-      <img src="mcgill.gif" alt="University Logo"><br>
+      <img src="mcgill.gif" alt="McGill University Logo" width="100" height="100"><br>
       <b>McGill University</b><br>
       MSc (Thesis), Computer Science
     </td>
     <td align="center">
-      <img src="guelph.png" alt="University Logo"><br>
+      <img src="guelph.png" alt="University of Guelph Logo" width="100" height="100"><br>
       <b>University of Guelph</b><br>
       BSc, Software Engineering + Economics
     </td>
     <td align="center">
-      <img src="bremen.png" alt="University Logo"><br>
+      <img src="bremen.png" alt="University of Bremen Logo" width="100" height="100"><br>
       <b>University of Bremen</b><br>
       Erasmus+ Scholar (Germany)
     </td>
   </tr>
 </table>
+
 
 
 
