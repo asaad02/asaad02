@@ -140,7 +140,7 @@ Hi, I’m **Abdullah Saad** , a software engineer and graduate researcher at **M
 
 <!--  Typing Animation for Engagement -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=700&lines=Enjoying+my+work%3F+Consider+supporting+me+%F0%9F%92%95;Even+a+little+goes+a+long+way+%E2%9C%A8;Helps+me+keep+building+free+tools+for+devs!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=700&lines=Enjoying+my+work%3F+Consider+supporting+me+%F0%9F%92%95;Even+a+little+goes+a+long+way+%E2%9C%A8;Helps+me+keep+building+free+tools+for+devs!" />
 </p>
 
 <!--  Stylish Call-To-Actions -->
